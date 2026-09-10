@@ -4,7 +4,7 @@
 
 GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
 
-![gifski](https://repo.x-cmd.io/gifski.svg)
+![gifski](https://repo.x-cmd.io/gifski.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,12 @@ x install gifski
 - **最新版本**: `1.34.0` (2025-07-13)
 - **最近提交**: 2026-06-17
 - **Release 含资产**: 1 个
-- **发布时间**: 2025-07-13T17:19:44Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [gifski-1.34.0.tar.xz](https://github.com/ImageOptim/gifski/releases/download/1.34.0/gifski-1.34.0.tar.xz) | 14.1 MiB | `other` |
 
 ## 流行度
 
@@ -72,4 +77,4 @@ gifski 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:32:25Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:03:27Z._
