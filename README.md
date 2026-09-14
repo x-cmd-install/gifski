@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,627 · **Forks**: 179 · **Open issues**: 224 · **Contributors**: 30
+- **Stars**: 5,629 · **Forks**: 179 · **Open issues**: 224 · **Contributors**: 30
 
 ## Totals (cumulative)
 
@@ -58,30 +58,18 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-03-17 | 0 | 1 | 2 | 1 | 3 | 4 |
-| 360d | 2025-09-18 | 0 | 7 | 2 | 6 | 8 | 11 |
-| last720d | 2024-09-23 | 2 | 12 | 2 | 19 | 12 | 35 |
+| 30d | 2026-08-15 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-03-18 | 0 | 1 | 2 | 1 | 3 | 4 |
+| 360d | 2025-09-19 | 0 | 7 | 2 | 6 | 8 | 11 |
+| last720d | 2024-09-24 | 2 | 12 | 2 | 19 | 12 | 35 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [gifski-1.34.0.tar.xz](https://github.com/ImageOptim/gifski/releases/download/1.34.0/gifski-1.34.0.tar.xz) | 14.1 MiB | `other` |
-
-## Distribution status
-
-Reported by **37** distros on [repology.org](https://repology.org/project/gifski). **25** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.34.0` | ✅ latest |
-| Homebrew | `1.34.0` | ✅ latest |
-| Nix unstable | `1.34.0` | ✅ latest |
-| Void | `1.34.0` | ✅ latest |
-| Alpine edge | `1.34.0` | ✅ latest |
 
 ## Improve this data
 
@@ -92,4 +80,4 @@ Install metadata for gifski lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:47:59Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:48:29Z._
