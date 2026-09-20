@@ -4,7 +4,7 @@
 
 GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
 
-![gifski](https://repo.x-cmd.io/gifski.svg)
+[![x-cmd/install — gifski Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gifski.svg)](https://x-cmd.com/install/gifski)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,635 · **Forks**: 179 · **Open issues**: 224 · **Contributors**: 30
+- **Stars**: 5,634 · **Forks**: 179 · **Open issues**: 224 · **Contributors**: 30
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 0 | 1 | 2 | 1 | 3 | 4 |
-| 360d | 2025-09-23 | 0 | 7 | 2 | 6 | 8 | 11 |
-| last720d | 2024-09-28 | 2 | 12 | 2 | 19 | 12 | 35 |
+| 30d | 2026-08-21 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 0 | 1 | 2 | 1 | 3 | 4 |
+| 360d | 2025-09-25 | 0 | 7 | 2 | 6 | 8 | 11 |
+| last720d | 2024-09-30 | 2 | 12 | 2 | 19 | 12 | 35 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for gifski lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:36:51Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:53:02Z._
