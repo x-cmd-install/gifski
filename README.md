@@ -30,9 +30,9 @@ Overall score: **2.8 / 10**
 
 Lowest-scoring checks:
 
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (3/10) — Found 10/28 approved changesets -- score normalized to 3
 - **Maintained** (0/10) — 0 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,696 · **Forks**: 181 · **Open issues**: 225 · **Contributors**: 30
+- **Stars**: 5,700 · **Forks**: 181 · **Open issues**: 225 · **Contributors**: 30
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-10 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-08-11 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-05-13 | 0 | 0 | 2 | 0 | 3 | 3 |
-| 360d | 2025-11-14 | 0 | 6 | 2 | 6 | 9 | 10 |
-| last720d | 2024-11-19 | 2 | 12 | 2 | 14 | 13 | 32 |
+| 30d | 2026-10-11 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-11 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-08-12 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-05-14 | 0 | 0 | 2 | 0 | 3 | 3 |
+| 360d | 2025-11-15 | 0 | 6 | 2 | 6 | 9 | 10 |
+| last720d | 2024-11-20 | 2 | 12 | 2 | 14 | 13 | 32 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for gifski lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:07:50Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:13:18Z._
