@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,712 · **Forks**: 183 · **Open issues**: 225 · **Contributors**: 30
+- **Stars**: 5,712 · **Forks**: 184 · **Open issues**: 224 · **Contributors**: 30
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 47 · **Open PRs**: 2 · **Closed issues**: 189 · **Open issues**: 36 · **Commits**: 519
+- **Releases**: 36 · **Merged PRs**: 47 · **Open PRs**: 2 · **Closed issues**: 188 · **Open issues**: 36 · **Commits**: 519
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-18 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-08-19 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-05-21 | 0 | 0 | 2 | 0 | 3 | 3 |
-| 360d | 2025-11-22 | 0 | 6 | 2 | 6 | 9 | 10 |
-| last720d | 2024-11-27 | 2 | 12 | 2 | 14 | 13 | 32 |
+| 30d | 2026-10-20 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-20 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-08-21 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-05-23 | 0 | 0 | 2 | 0 | 3 | 3 |
+| 360d | 2025-11-24 | 0 | 6 | 2 | 6 | 9 | 10 |
+| last720d | 2024-11-29 | 2 | 12 | 2 | 14 | 13 | 32 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for gifski lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:05:45Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:24:17Z._
